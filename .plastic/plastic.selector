@@ -1,4 +1,0 @@
-repository "NewLocLabPackage@LocLab_Consulting_GmbH@cloud"
-  path "/"
-    br "/main"
-    co "/main"
